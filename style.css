@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.container{
+    background-color: #111;
+}
+
+.salute{
+    height: 100vh;
+    display: flex;
+}
+
+.saluteTextContainer{
+    flex: 3;
+}
+
+.saluteImgContainer{
+    flex: 1;
+}
